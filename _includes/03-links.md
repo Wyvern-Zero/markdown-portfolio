@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+![Plex_Zero](http://zero:32400/web/index.html#)
