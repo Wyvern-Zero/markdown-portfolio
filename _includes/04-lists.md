@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+:smile: :tada:
+
+Geist's Favorite Movies
+* Alien
+* The Thing
+* Children of Men
+* Night of the Living Dead
